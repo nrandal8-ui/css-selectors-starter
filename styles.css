@@ -689,7 +689,7 @@ input[type="submit"]:focus {
     select the links in the software section using the ID, tag name, and child/descendant selector
 */
 /* ----- */
-#software {
+#software a {
     width: 100px;
     height: auto;
     margin: 0 auto;
