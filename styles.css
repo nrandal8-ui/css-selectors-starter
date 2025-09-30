@@ -675,11 +675,12 @@ input[type="submit"]:focus {
     select the section with the ID of software by its ID 
 */
 /* ----- */
-#software h3 {
+#software {
     margin-top: 16px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 12px;
+    justify-items: center;
 }
 
 /* ----- */
