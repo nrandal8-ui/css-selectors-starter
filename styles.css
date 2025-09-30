@@ -576,7 +576,7 @@ input[type="submit"]:focus {
     select the first list item in the list styling container using the ID, tag name, and pseudo-class selectors
 */
 /* ----- */
-#list li:first child {
+#list li:first-child {
     color: var(--purple);
 }
 
@@ -586,7 +586,7 @@ input[type="submit"]:focus {
     select the last list item in the list styling container using the ID, tag name, and pseudo-class selectors
 */
 /* ----- */
-#list li:last child {
+#list li:last-child {
     color: var(--dv-lt-blue);
 }
 
