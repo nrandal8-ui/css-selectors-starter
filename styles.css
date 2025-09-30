@@ -567,6 +567,7 @@ input[type="submit"]:focus {
 #list li::marker {
     font-size: 3rem;
     content: "\2730";
+    color: currentColor;
 }
 
 /* ----- */
