@@ -690,6 +690,7 @@ input[type="submit"]:focus {
 */
 /* ----- */
 #software a {
+    display: block;
     width: 100px;
     height: auto;
     margin: 0 auto;
